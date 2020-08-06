@@ -9,7 +9,7 @@
   - highest rating: 2499🍎
 
 
-Click [here](./DETAIL.md) for details.
+Click [here](https://github.com/riantkb/riantkb/blob/master/DETAIL.md) for details.
 
 
 <!--
