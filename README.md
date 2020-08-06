@@ -1,5 +1,5 @@
 ### Competitive Programming
-#### Acounts
+#### Accounts
 - [AtCoder (riantkb)](https://atcoder.jp/users/riantkb)
   - highest rating: 2769🍊
 - [Topcoder (rian)](https://www.topcoder.com/members/rian)
