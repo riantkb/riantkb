@@ -9,7 +9,7 @@
   - highest rating: 2499🍎
 
 
-Click [here](./detail.md) for details.
+Click [here](./DETAIL.md) for details.
 
 
 <!--
