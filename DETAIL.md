@@ -21,7 +21,7 @@ N/A
 - 2018/08 - 2018/09 (1 month): Software Engineer in Indeed Tokyo
 
 ## Academic Experience
-- **2020/04 - present : Research Assistant at Tokyo Institute of Technology.**
+- **2020/04 - present : Researcher at Tokyo Institute of Technology.**
 
 ## Publication
 - **久保田陸人**, 柳澤渓甫, 吉川寧, 大上雅史, 秋山泰. [共通な部分構造の再利用による高速なタンパク質リガンドドッキング手法の開発](http://id.nii.ac.jp/1001/00203777/), 情報処理学会研究報告 バイオ情報学（BIO）, 2020-BIO-61(4), 1-8, 2020.
@@ -59,19 +59,3 @@ N/A
 ### Achievements
 - wip...🚧
 
-
-
-<!--
-**riantkb/riantkb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
