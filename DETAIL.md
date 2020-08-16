@@ -34,17 +34,16 @@ N/A
 ### Used as part of work
 - Java
 - Python
-- Javascript
+- JavaScript
 
 ### Used as part of research
 - C++
 - Python
 
-### Used as part of hobby
+### Used as part of hobby (and Competitive Programming)
 - C#
 - C++
 - Python
-- Java
 
 ## Competitive Programming
 ### Basic Info
