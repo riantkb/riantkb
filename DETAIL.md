@@ -30,7 +30,7 @@ N/A
 - Yanagisawa K, Komine S, **Kubota R**, Ohue M, Akiyama Y. [Optimization of memory use of fragment extension-based protein-ligand docking with an original fast minimum cost flow algorithm](https://doi.org/10.1016/j.compbiolchem.2018.03.013), Computational Biology and Chemistry, 74: 399-406, 2018.
 
 
-## Programming Languages
+## Programming Language
 ### Used as part of work
 - Java
 - Python
