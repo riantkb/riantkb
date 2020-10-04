@@ -1,7 +1,3 @@
-## Interests
-- 数理最適化
-- 探索アルゴリズム
-
 ## Research Area
 - 探索アルゴリズム
 - バイオインフォマティクス
@@ -14,14 +10,14 @@
 
 ## Work Experience
 ### Full-time
-N/A
+- 
 
 ### Internship / Part-time job
-- **2020/04 - present: Engineer in Future Corporation**
-- 2018/08 - 2018/09 (1 month): Software Engineer in Indeed Tokyo
+- 2020/04 - 2020/09: Engineer in Future Corporation
+- 2018/08 - 2018/09 (6 weeks): Software Engineer in Indeed Tokyo
 
 ## Academic Experience
-- **2020/04 - present : Researcher at Tokyo Institute of Technology.**
+- 2020/04 - 2020/09 : Researcher at Tokyo Institute of Technology
 
 ## Publication
 - **久保田陸人**, 柳澤渓甫, 吉川寧, 大上雅史, 秋山泰. [共通な部分構造の再利用による高速なタンパク質リガンドドッキング手法の開発](http://id.nii.ac.jp/1001/00203777/), 情報処理学会研究報告 バイオ情報学（BIO）, 2020-BIO-61(4), 1-8, 2020.
